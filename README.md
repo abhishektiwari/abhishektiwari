@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently Head of Engineering - CloudAuth / Senior Software Development Manager at [Amazon](https://www.aboutamazon.com/). I mainly code in Python, JavaScript, and Go. Recently I started learning Rust.
+Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working as Head of Engineering for CloudAuth / Senior Software Development Manager at [Amazon](https://www.aboutamazon.com/). I mainly code in Python, JavaScript, and Go. Recently I started learning Rust.
 
 ### Connect with me
 
