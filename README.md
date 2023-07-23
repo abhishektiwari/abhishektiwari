@@ -10,7 +10,9 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working a
 <a href="https://www.linkedin.com/in/iamabhishektiwari/">
   <img align="left" alt="Abhishek Tiwari | LinkedIN" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
 </a>
-<a href="https://www.abhishek-tiwari.com/">🌐</a>
+<a href="https://www.abhishek-tiwari.com/">
+  <img align="left" alt="Abhishek Tiwari | Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/safari.svg" />
+</a>
 
 <br><br>
 
