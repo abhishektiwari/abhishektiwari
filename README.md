@@ -11,7 +11,7 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working a
   <img align="left" alt="Abhishek Tiwari | LinkedIN" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
 </a>
 <a href="https://www.abhishek-tiwari.com/">
-  <img align="left" alt="Abhishek Tiwari | Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/safari.svg" />
+  <img align="left" alt="Abhishek Tiwari | Blog" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghost.svg" />
 </a>
 
 <br><br>
