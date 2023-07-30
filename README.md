@@ -4,7 +4,7 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working a
 
 I am passionate about developer experience, scientific computing, informatics, information systems, information security, workflow systems, search, NLP/ML, and distributed systems. 
 
-For more information see selected my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en&authuser=1) and [my blog](https://www.abhishek-tiwari.com/)
+For more information see selected my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en) and [my blog](https://www.abhishek-tiwari.com/)
 
 ### Connect with me
 
@@ -16,6 +16,10 @@ For more information see selected my [Google Scholar profile](https://scholar.go
 </a>
 <a href="https://www.abhishek-tiwari.com/">
   <img align="left" alt="Abhishek Tiwari | Blog" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghost.svg" />
+</a>
+
+<a href="[https://www.abhishek-tiwari.com/](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)">
+  <img align="left" alt="Google Scholor" width="22px" src="icons8-google-scholar-48.png" />
 </a>
 
 <br><br>
