@@ -15,7 +15,7 @@ For more information see selected my [Google Scholar profile](https://scholar.go
   <img align="left" alt="Abhishek Tiwari | LinkedIN" width="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
 </a>
 <a href="https://www.abhishek-tiwari.com/">
-  <img align="left" alt="Abhishek Tiwari | Blog" width="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghost.svg" />
+  <img align="left" alt="Abhishek Tiwari | Blog" width="48px" src="icons8-website-50.png" />
 </a>
 
 <a href="[https://www.abhishek-tiwari.com/](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)">
