@@ -9,17 +9,17 @@ For more information see selected my [Google Scholar profile](https://scholar.go
 ### Connect with me
 
 <a href="https://twitter.com/abhishektiwari">
-  <img align="left" alt="Abhishek Tiwari | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />
+  <img align="left" alt="Abhishek Tiwari | Twitter" width="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iamabhishektiwari/">
-  <img align="left" alt="Abhishek Tiwari | LinkedIN" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek Tiwari | LinkedIN" width="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
 </a>
 <a href="https://www.abhishek-tiwari.com/">
-  <img align="left" alt="Abhishek Tiwari | Blog" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghost.svg" />
+  <img align="left" alt="Abhishek Tiwari | Blog" width="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghost.svg" />
 </a>
 
 <a href="[https://www.abhishek-tiwari.com/](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)">
-  <img align="left" alt="Google Scholor" width="22px" src="icons8-google-scholar-48.png" />
+  <img align="left" alt="Google Scholor" width="48px" src="icons8-google-scholar-48.png" />
 </a>
 
 <br><br>
