@@ -2,6 +2,10 @@
 
 Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working as Senior Software Development Manager at [Amazon](https://www.aboutamazon.com/). I mainly code in Python, JavaScript, and Go. Recently I started learning Rust.
 
+I am passionate about developer experience, scientific computing, informatics, information systems, information security, workflow systems, search, NLP/ML, and distributed systems. 
+
+For more information see selected my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en&authuser=1) and [my blog](https://www.abhishek-tiwari.com/)
+
 ### Connect with me
 
 <a href="https://twitter.com/abhishektiwari">
