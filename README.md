@@ -18,7 +18,7 @@ For more information see selected my [Google Scholar profile](https://scholar.go
   <img align="left" alt="Abhishek Tiwari | Blog" width="48px" src="icons8-website-50.png" />
 </a>
 
-<a href="[https://www.abhishek-tiwari.com/](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)">
+<a href="https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en">
   <img align="left" alt="Google Scholor" width="48px" src="icons8-google-scholar-48.png" />
 </a>
 
