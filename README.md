@@ -4,7 +4,7 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently working a
 
 Areas of interest and expertise: Software Engineering, Network Analysis and Visualization, Graph Theory and Data Structures, Developer Productivity, Developer Experience, Systems Biology, Bioinformatics, Cheminformatics, Scientific Computing, Information Security, Information Systems, Workflow Systems, Data Privacy, Confidential Computing, Natural Language Processing (NLP), Machine Learning (ML), Data Engineering, Data Pipelines, Apache Airflow, Apache Spark, Distributed Systems, Edge Computing, Microservices, APIs
 
-For more information see my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en) and [blog](https://www.abhishek-tiwari.com/).
+For more information see my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en) and [website](https://www.abhishek-tiwari.com/).
 
 ### Connect with me
 
@@ -13,6 +13,3 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 - [Website](https://www.abhishek-tiwari.com/)
 - [Google Scholor](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)
 
-<br><br>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhishektiwari.abhishektiwari)
