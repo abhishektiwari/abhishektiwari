@@ -8,19 +8,10 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 
 ### Connect with me
 
-<a href="https://twitter.com/abhishektiwari">
-  Twitter
-</a>
-<a href="https://www.linkedin.com/in/iamabhishektiwari/">
-  LinkedIn
-</a>
-<a href="https://www.abhishek-tiwari.com/">
-  Website
-</a>
-
-<a href="https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en">
-  <img align="left" alt="Google Scholor" width="48px" src="icons8-google-scholar-48.png" />
-</a>
+- [Twitter](https://twitter.com/abhishektiwari)
+- [LinkedIn](https://www.linkedin.com/in/iamabhishektiwari/)
+- [Website](https://www.abhishek-tiwari.com/)
+- [Google Scholor](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)
 
 <br><br>
 
