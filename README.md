@@ -13,3 +13,4 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 - [Website](https://www.abhishek-tiwari.com/)
 - [Google Scholor](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)
 
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@abhishektiwari)](https://joss.theoj.org/papers/reviewed_by/@abhishektiwari)
