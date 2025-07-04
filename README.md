@@ -14,4 +14,5 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 - [Google Scholor](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)
 
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@abhishektiwari)](https://joss.theoj.org/papers/reviewed_by/@abhishektiwari)
-![JOSS Edited](https://img.shields.io/badge/JOSS%20Edited%20-%202%20-%20Green)
+![JOSS Edited]([https://img.shields.io/badge/JOSS%20Edited%20-%202%20-%20Green](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fjoss.theoj.org%2Fpapers%2Fedited_by%2F%40abhishektiwari&search=%3Cspan%20class%3D%22pagy%20info%22%3EDisplaying%20%3Cb%3E(%5Cd%2B)%3C%2Fb%3E%20papers%3C%2Fspan%3E&replace=%241&label=JOSS%20Edited
+))
