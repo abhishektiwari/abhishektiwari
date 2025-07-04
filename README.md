@@ -14,3 +14,4 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 - [Google Scholor](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en)
 
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@abhishektiwari)](https://joss.theoj.org/papers/reviewed_by/@abhishektiwari)
+![JOSS Edited](https://img.shields.io/badge/JOSS%20Edited%20-%202%20-%20Green)
