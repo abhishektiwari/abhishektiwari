@@ -16,3 +16,10 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@abhishektiwari)](https://joss.theoj.org/papers/reviewed_by/@abhishektiwari)
 [![JOSS Edited](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fjoss.theoj.org%2Fpapers%2Fedited_by%2F%40abhishektiwari&search=%3Cspan%20class%3D%22pagy%20info%22%3EDisplaying%20%3Cb%3E(%5Cd%2B)%3C%2Fb%3E%20papers%3C%2Fspan%3E&replace=%241&label=JOSS%20Edited)](https://joss.theoj.org/papers/edited_by/@abhishektiwari)
 
+### Popular Packages
+
+| Package                                                                | Downloads                                                               |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [`axioms-drf-py`](https://github.com/abhishektiwari/axioms-drf-py)     | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-drf-py)   |
+| [`axioms-flask-py`](https://github.com/abhishektiwari/axioms-flask-py) | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-flask-py) |
+| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat)            |
