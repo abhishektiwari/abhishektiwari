@@ -8,7 +8,7 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently I work as
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------- |
 | [`axioms-drf-py`](https://github.com/abhishektiwari/axioms-drf-py)     | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-drf-py?label=PyPI%20Downloads)   | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-drf-py?min_date=2020-02-24&max_date=2025-10-31)  | 
 | [`axioms-flask-py`](https://github.com/abhishektiwari/axioms-flask-py) | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-flask-py?label=PyPI%20Downloads) | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-flask-py?min_date=2020-02-24&max_date=2025-10-31) 
-| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat?label=PyPI%20Downloads)  ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/hbat?label=SourceForge%20Downloads)          | [`TOP 10%`](https://clickpy.clickhouse.com/dashboard/hbat?min_date=2025-06-30&max_date=2025-10-31) |
+| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat?label=PyPI%20Downloads)  ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/hbat?label=SourceForge%20Downloads)          | [`TOP 10%`](https://clickpy.clickhouse.com/dashboard/hbat?min_date=2025-06-29&max_date=2025-10-31) |
 | [`scholarimpact`](https://github.com/abhishektiwari/scholarimpact)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/scholarimpact?label=PyPI%20Downloads)  |  |
 
 ## Connect with me
