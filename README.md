@@ -4,7 +4,15 @@ Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently I work as
 
 Research interests: Network Analysis, Network Visualization, Graph Theory, Data Structures, Developer Productivity, Developer Experience, Systems Biology, Bioinformatics, Cheminformatics, Scientific Computing, Information Security, Information Systems, Workflow Systems, Data Privacy, Confidential Computing, Natural Language Processing (NLP), Machine Learning (ML), Neural Networks, Deep Learning, Data Engineering, Data Pipelines, Distributed Systems, IoT, Sensors, Edge Computing, CDNs, Serverless Computing, Microservices, APIs, FAIR Data, Simulations, Emulations.
 
-For more information see my [Google Scholar profile](https://scholar.google.com/citations?user=Mb7eYKYAAAAJ&hl=en) and [website](https://www.abhishek-tiwari.com/).
+
+## Popular Packages
+
+| Package                                                                | Total Downloads                                                               |  Percentile |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------- |
+| [`axioms-drf-py`](https://github.com/abhishektiwari/axioms-drf-py)     | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-drf-py?label=PyPI%20Downloads)   | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-drf-py?min_date=2020-02-24&max_date=2025-12-31)  | 
+| [`axioms-flask-py`](https://github.com/abhishektiwari/axioms-flask-py) | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-flask-py?label=PyPI%20Downloads) | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-flask-py?min_date=2020-02-24&max_date=2025-12-31) 
+| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat?label=PyPI%20Downloads)  ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/hbat?label=SourceForge%20Downloads)          | [`TOP 10%`](https://clickpy.clickhouse.com/dashboard/hbat?min_date=2025-06-30&max_date=2025-12-31) |
+| [`scholarimpact`](https://github.com/abhishektiwari/scholarimpact)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/scholarimpact?label=PyPI%20Downloads)  |  |
 
 ## Connect with me
 
@@ -16,12 +24,3 @@ For more information see my [Google Scholar profile](https://scholar.google.com/
 ## Open Science Activities
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@abhishektiwari)](https://joss.theoj.org/papers/reviewed_by/@abhishektiwari)
 [![JOSS Edited](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fjoss.theoj.org%2Fpapers%2Fedited_by%2F%40abhishektiwari&search=%3Cspan%20class%3D%22pagy%20info%22%3EDisplaying%20%3Cb%3E(%5Cd%2B)%3C%2Fb%3E%20papers%3C%2Fspan%3E&replace=%241&label=JOSS%20Edited)](https://joss.theoj.org/papers/edited_by/@abhishektiwari)
-
-## Popular Packages
-
-| Package                                                                | Total Downloads                                                               |  Percentile |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------- |
-| [`axioms-drf-py`](https://github.com/abhishektiwari/axioms-drf-py)     | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-drf-py?label=PyPI%20Downloads)   | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-drf-py?min_date=2020-02-24&max_date=2025-12-31)  | 
-| [`axioms-flask-py`](https://github.com/abhishektiwari/axioms-flask-py) | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-flask-py?label=PyPI%20Downloads) | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-flask-py?min_date=2020-02-24&max_date=2025-12-31) 
-| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat?label=PyPI%20Downloads)  ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/hbat?label=SourceForge%20Downloads)          | [`TOP 10%`](https://clickpy.clickhouse.com/dashboard/hbat?min_date=2025-06-30&max_date=2025-12-31) |
-| [`scholarimpact`](https://github.com/abhishektiwari/scholarimpact)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/scholarimpact?label=PyPI%20Downloads)  |  |
