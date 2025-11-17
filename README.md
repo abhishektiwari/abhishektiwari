@@ -2,16 +2,6 @@
 
 Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently I work as Senior Software Development Manager at [Amazon](https://www.aboutamazon.com/) and based out of New York. I am also **[Editor](https://joss.theoj.org/about#topic_editors)** for _[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_ and **[Associate Editor](https://openresearchsoftware.metajnl.com/about/editorialteam)** for _[Journal of Open Research Software (JORS)](https://openresearchsoftware.metajnl.com)_. I mainly code in Python, JavaScript, Go, and Rust. I have 5 years of research and 12+ years of industry experience.
 
-## Popular Packages
-
-| Package                                                                | Total Downloads                                                               |  Percentile |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------- |
-| [`axioms-drf-py`](https://github.com/abhishektiwari/axioms-drf-py)     | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-drf-py?label=PyPI%20Downloads)   | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-drf-py?min_date=2020-01-01&max_date=2025-11-14)  | 
-| [`axioms-flask-py`](https://github.com/abhishektiwari/axioms-flask-py) | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-flask-py?label=PyPI%20Downloads) | [`TOP 25%`](https://clickpy.clickhouse.com/dashboard/axioms-flask-py?min_date=2020-01-01&max_date=2025-11-14) 
-| [`hbat`](https://github.com/abhishektiwari/hbat)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hbat?label=PyPI%20Downloads)  ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/hbat?label=SourceForge%20Downloads)          | [`TOP 10%`](https://clickpy.clickhouse.com/dashboard/hbat?min_date=2025-01-01&max_date=2025-11-14) |
-| [`scholarimpact`](https://github.com/abhishektiwari/scholarimpact)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/scholarimpact?label=PyPI%20Downloads)  |  |
-| [`axioms-fastapi`](https://github.com/abhishektiwari/axioms-fastapi)                       | ![Pepy Total Downloads](https://img.shields.io/pepy/dt/axioms-fastapi?label=PyPI%20Downloads)  |  |
-
 ## Connect with me
 
 - [Twitter](https://twitter.com/abhishektiwari)
