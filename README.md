@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). Currently I work as Senior Software Development Manager at [Amazon](https://www.aboutamazon.com/) and based out of New York. I am also **[Editor](https://joss.theoj.org/about#topic_editors)** for _[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_ and **[Associate Editor](https://openresearchsoftware.metajnl.com/about/editorialteam)** for _[Journal of Open Research Software (JORS)](https://openresearchsoftware.metajnl.com)_. I mainly code in Python, JavaScript, Go, and Rust. I have 5 years of research and 12+ years of industry experience.
+Hi, I'm [Abhishek Tiwari](https://www.abhishek-tiwari.com/). I am also **[Editor](https://joss.theoj.org/about#topic_editors)** for _[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)_ and **[Associate Editor](https://openresearchsoftware.metajnl.com/about/editorialteam)** for _[Journal of Open Research Software (JORS)](https://openresearchsoftware.metajnl.com)_. I mainly code in Python, JavaScript, Go, and Rust. I have 5 years of research and 12+ years of industry experience.
 
 ## Connect with me
 
